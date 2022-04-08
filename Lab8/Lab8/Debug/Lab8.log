@@ -1,0 +1,19 @@
+﻿  Lab8.cpp
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(29,17): error C2248: 'FinalGrade::score': cannot access private member declared in class 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(47): message : see declaration of 'FinalGrade::score'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(21): message : see declaration of 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(30,30): error C2248: 'FinalGrade::score': cannot access private member declared in class 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(47): message : see declaration of 'FinalGrade::score'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(21): message : see declaration of 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(32,17): error C2248: 'FinalGrade::score': cannot access private member declared in class 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(47): message : see declaration of 'FinalGrade::score'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(21): message : see declaration of 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(33,30): error C2248: 'FinalGrade::score': cannot access private member declared in class 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(47): message : see declaration of 'FinalGrade::score'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(21): message : see declaration of 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(35,33): error C2248: 'FinalGrade::score': cannot access private member declared in class 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(47): message : see declaration of 'FinalGrade::score'
+C:\Users\nicol\source\repos\Lab8\Lab8\FinalGrade.h(21): message : see declaration of 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(52,40): error C2440: 'initializing': cannot convert from 'FinalGrade *' to 'FinalGrade'
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(52,40): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\nicol\source\repos\Lab8\Lab8\Lab8.cpp(106,23): warning C4018: '<': signed/unsigned mismatch

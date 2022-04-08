@@ -1,0 +1,9 @@
+﻿  Gradebook.cpp
+K:\Repos\Lab9\Lab9\Gradebook.cpp(33,23): warning C4018: '<': signed/unsigned mismatch
+K:\Repos\Lab9\Lab9\Gradebook.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+K:\Repos\Lab9\Lab9\Gradebook.cpp(64,23): warning C4018: '<': signed/unsigned mismatch
+K:\Repos\Lab9\Lab9\Gradebook.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+K:\Repos\Lab9\Lab9\Gradebook.cpp(76,12): warning C4101: 'temp': unreferenced local variable
+K:\Repos\Lab9\Lab9\Gradebook.cpp(95,23): warning C4018: '<': signed/unsigned mismatch
+K:\Repos\Lab9\Lab9\Gradebook.cpp(57): error C4716: 'Gradebook::getMin': must return a value
+K:\Repos\Lab9\Lab9\Gradebook.cpp(69): error C4716: 'Gradebook::getAverage': must return a value
